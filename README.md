@@ -49,6 +49,6 @@ Building complex UI fast with CSS grids and flexbox
 
 - Website -(https://jonn.netlify.app)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/Jonniek01)
-- Twitter - (https://www.frontendmentor.io/profile/Jonniek01)
+- Twitter - (https://twitter.com/NdigirigiJ)
 
 
